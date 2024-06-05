@@ -1,0 +1,2919 @@
+[
+  {
+    "name": "CAROLINA HERRERA",
+    "regular-price": " 223,000DT ",
+    "price": " 167,250DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/43309-212-heroes.html"
+  },
+  {
+    "name": "CAROLINA HERRERA",
+    "regular-price": " 173,000DT ",
+    "price": " 138,400DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/98013-212-heroes-for-her.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 36,000DT ",
+    "price": " 28,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/3013-24-ore-velvet-mat-lipstick.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 19,000DT ",
+    "price": " 15,200DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/2671-24ore-brow-pencil.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 35,000DT ",
+    "price": " 28,000DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/2666-24ore-brow-marker.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 34,000DT ",
+    "price": " 23,800DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/2669-24ore-brow-powder.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 15,000DT ",
+    "price": " 9,000DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/1499-24ore-lipliner-pencil.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/fond-de-teint/3552-24ore-nude-perfect.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/crayon-eyeliner/1533-24ore-wp-eye-pencil.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 30,000DT ",
+    "price": " 24,000DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/83588-2in1-gel-contourcolor-lipliner-wp.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 21,000DT ",
+    "price": " 15,750DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/1539-2in1-gel-kajaleyeliner-pencil.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 96,000DT ",
+    "price": " 76,800DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/4578-72h-ultra-hydrating-gel.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 162,000DT ",
+    "price": " 113,400DT ",
+    "link": "https://www.pointm.tn/soin-de-nuit/1271-acide-glycolique-8015150218139.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 158,000DT ",
+    "price": " 94,800DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/80914-acide-hyaluronique-hydratant-liftant-8015150218009.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 130,000DT ",
+    "price": " 78,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3175-acqua-attiva.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 130,000DT ",
+    "price": " 91,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3174-acquawood.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 148,000DT ",
+    "price": " 118,400DT ",
+    "link": "https://www.pointm.tn/amincissant/68544-actifs-purs-concentre-biphase-amincissant-algues-marines-peptides-8015150253154.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 145,000DT ",
+    "price": " 87,000DT ",
+    "link": "https://www.pointm.tn/corps/1292-actifs-purs-capsules-anticellulite-8015150251549.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 145,000DT ",
+    "price": " 116,000DT ",
+    "link": "https://www.pointm.tn/corps/1295-actifs-purs-collagene-acide-hyaluronique-buste-8015150251891.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 58,000DT ",
+    "price": " 40,600DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/2422-active-all-day-wear-make-up.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 193,000DT ",
+    "price": " 144,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/48394-alien.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 143,000DT ",
+    "price": " 114,400DT ",
+    "link": "https://www.pointm.tn/deodorant/112548-alien-deodorant-d-eclat-en-spray-3439600056266.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 280,000DT ",
+    "price": " 210,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/105360-alien-goddess.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 366,000DT ",
+    "price": " 274,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/105459-alien-goddess-recharge.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 1 047,000DT ",
+    "price": " 837,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/1357-all-day-all-year.html"
+  },
+  {
+    "name": "InoDerma",
+    "regular-price": " 129,000DT ",
+    "price": " 96,750DT ",
+    "link": "https://www.pointm.tn/huile-solaire/114381-aloha-by-inoderma-6192488104395.html"
+  },
+  {
+    "name": "InoDerma",
+    "regular-price": " 38,000DT ",
+    "price": " 28,500DT ",
+    "link": "https://www.pointm.tn/huile-solaire/114378-aloha-tahiti-monoi-oil-6192488104364.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/fond-de-teint/61937-always-fabulous-24h.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 231,000DT ",
+    "price": " 184,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/202-anais-anais.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 131,000DT ",
+    "price": " 78,600DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/84757-anais-anais-premier-delice.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 280,000DT ",
+    "price": " 210,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/48402-angel.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 250,000DT ",
+    "price": " 175,000DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107175-angel-3614273693189.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 222,000DT ",
+    "price": " 166,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/105168-angel-nova.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 330,000DT ",
+    "price": " 247,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/105171-angel-nova-recharge.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 46,000DT ",
+    "price": " 32,200DT ",
+    "link": "https://www.pointm.tn/poudre/2409-anti-shine-mattifying-powder.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 221,000DT ",
+    "price": " 165,750DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/2048-anti-rides-fermet-pour-peaux-sches-men.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 129,000DT ",
+    "price": " 103,200DT ",
+    "link": "https://www.pointm.tn/rasage-apres-rasage/1298-aprs-rasage-peaux-sensibles-8015150280136.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 175,000DT ",
+    "price": " 140,000DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/92153-aquagel-actifs-purs-acide-hyaluronique-ceramides-8015150218795.html"
+  },
+  {
+    "name": "BVLGARI",
+    "regular-price": " 200,000DT ",
+    "price": " 140,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2872-aqva-pour-homme-atlantiqve.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 31,000DT ",
+    "price": " 24,800DT ",
+    "link": "https://www.pointm.tn/mascara/1859-arcancil-matic.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 34,000DT ",
+    "price": " 27,200DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1500-atomic-red-mat-lipstick.html"
+  },
+  {
+    "name": "CAROLINA HERRERA",
+    "regular-price": " 326,000DT ",
+    "price": " 244,500DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107408-bad-boy-8411061033906.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 128,000DT ",
+    "price": " 102,400DT ",
+    "link": "https://www.pointm.tn/rasage-apres-rasage/101352-baume-apres-rasage-reparateur-avec-gel-aloe-vera-8015150284066.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 145,000DT ",
+    "price": " 108,750DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/648-baume-hydratant-men.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 77,000DT ",
+    "price": " 61,600DT ",
+    "link": "https://www.pointm.tn/soin-cheveux/92163-baume-gel-micellaire-extra-delicat-8015150291514.html"
+  },
+  {
+    "name": "FRANCK OLIVIER",
+    "regular-price": " 18,000DT ",
+    "price": " 13,500DT ",
+    "link": "https://www.pointm.tn/deodorant/28627-bella-deodorant.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 392,000DT ",
+    "price": " 313,600DT ",
+    "link": "https://www.pointm.tn/serum/113884-benefiance-wrinkle-smoothing-contour-0768614155805.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 356,000DT ",
+    "price": " 284,800DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/113811-benefiance-wrinkle-smoothing-cream-0768614149538.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 356,000DT ",
+    "price": " 284,800DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/113882-benefiance-wrinkle-smoothing-day-cream-spf25-0768614149514.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 303,000DT ",
+    "price": " 242,400DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/113883-benefiance-wrinkle-smoothing-eye-0768614155799.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 349,000DT ",
+    "price": " 244,300DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/106578-black-opium-3614273733496.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 287,000DT ",
+    "price": " 229,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/82945-black-opium-extreme.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 254,000DT ",
+    "price": " 177,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1888-black-opium-intense.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 265,000DT ",
+    "price": " 212,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3120-black-opium-neon.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 157,000DT ",
+    "price": " 125,600DT ",
+    "link": "https://www.pointm.tn/blush/2629-blush-innerglow-powder.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 34,000DT ",
+    "price": " 27,200DT ",
+    "link": "https://www.pointm.tn/blush/93788-blush-perfect.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/blush/61947-boite-ronde-blush.html"
+  },
+  {
+    "name": "VIKTOR & ROLF",
+    "regular-price": " 470,000DT ",
+    "price": " 352,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/432-bonbon.html"
+  },
+  {
+    "name": "HUGO BOSS",
+    "regular-price": " 318,000DT ",
+    "price": " 238,500DT ",
+    "link": "https://www.pointm.tn/parfum-homme/108694-boss-bottled-3616302923175.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 116,000DT ",
+    "price": " 87,000DT ",
+    "link": "https://www.pointm.tn/soins/1294-boue-gommage-remodelante-sos-zones-critiques-8015150251822.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/sourcils/62150-brow-2-go.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 24,000DT ",
+    "price": " 19,200DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/723-brow-shaper.html"
+  },
+  {
+    "name": "BVLGARI",
+    "regular-price": " 353,000DT ",
+    "price": " 264,750DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/69707-bvlgari-man-terrae-essence.html"
+  },
+  {
+    "name": "CARTIER",
+    "regular-price": " 234,000DT ",
+    "price": " 163,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2144-carat.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 213,000DT ",
+    "price": " 159,750DT ",
+    "link": "https://www.pointm.tn/premieres-rides/3260-caresse-active-energie.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 36,500DT ",
+    "price": " 29,200DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1761-caresse-de-rouge.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 159,000DT ",
+    "price": " 119,250DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/3261-caresse-regard-energie.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 279,000DT ",
+    "price": " 209,250DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/3140-caresse-temps-sublime-jour.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 253,000DT ",
+    "price": " 189,750DT ",
+    "link": "https://www.pointm.tn/coffret-soin/112740-caresse-temps-sublime-light-3760096764916.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 297,000DT ",
+    "price": " 222,750DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/3069-caresse-temps-sublime-nuit.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 279,000DT ",
+    "price": " 209,250DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/3399-caresse-temps-sublime-riche.html"
+  },
+  {
+    "name": "CARVEN",
+    "regular-price": " 325,000DT ",
+    "price": " 227,500DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/128842-carven-c-est-paris-homme-3355991225565.html"
+  },
+  {
+    "name": "CARVEN",
+    "regular-price": " 301,000DT ",
+    "price": " 225,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/509-carven-pour-homme.html"
+  },
+  {
+    "name": "CARVEN",
+    "regular-price": " 334,000DT ",
+    "price": " 250,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3403-carven-pour-homme.html"
+  },
+  {
+    "name": "pepe jeans",
+    "regular-price": " 104,000DT ",
+    "price": " 78,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2986-celebrate-for-her.html"
+  },
+  {
+    "name": "pepe jeans",
+    "regular-price": " 104,000DT ",
+    "price": " 72,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2988-celebrate-for-him.html"
+  },
+  {
+    "name": "CHLOÉ",
+    "regular-price": " 239,000DT ",
+    "price": " 179,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3411-chloe-absolu-de-parfum.html"
+  },
+  {
+    "name": "CHLOÉ",
+    "regular-price": " 371,000DT ",
+    "price": " 296,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/97309-chloe-nomade-eau-de-parfum-naturelle.html"
+  },
+  {
+    "name": "AZZARO",
+    "regular-price": " 218,000DT ",
+    "price": " 174,400DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1904-chrome.html"
+  },
+  {
+    "name": "Women'secret",
+    "regular-price": " 35,000DT ",
+    "price": " 24,500DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3254-coconut-temptation.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 109,000DT ",
+    "price": " 87,200DT ",
+    "link": "https://www.pointm.tn/anti-taches-et-luminosite/78744-collistar-pure-actives-concentre-anti-taches-acide-glycolique-niacinamide-8015150218658.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 15,000DT ",
+    "price": " 12,000DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/48310-color-elixir.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 43,000DT ",
+    "price": " 25,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/871-color-perfection-lip-liner.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 63,000DT ",
+    "price": " 31,500DT ",
+    "link": "https://www.pointm.tn/poudre/1645-compact-powder.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 24,000DT ",
+    "price": " 19,200DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/1858-contour-hysteria.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 24,000DT ",
+    "price": " 18,000DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/1546-correcteur-stick-24ore.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 51,000DT ",
+    "price": " 40,800DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/1835-cover-match.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 44,000DT ",
+    "price": " 35,200DT ",
+    "link": "https://www.pointm.tn/poudre/430-cover-match-two-way-cake.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 62,500DT ",
+    "price": " 43,750DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/2406-cover-up-foundation-concealer.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/crayon-a-levres/62110-crayon-a-levres-contour-edition.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 33,000DT ",
+    "price": " 24,750DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/1216-crayon-contour-des-lvres.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 97,000DT ",
+    "price": " 77,600DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/2624-crayon-microliner-ink.html"
+  },
+  {
+    "name": "BOURJOIS",
+    "regular-price": " 40,000DT ",
+    "price": " 32,000DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/104241-crayon-yeux-twistmatic-kajal.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 201,000DT ",
+    "price": " 160,800DT ",
+    "link": "https://www.pointm.tn/corps/1297-creme-amincissante-haute-definition-8015150252676.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 162,000DT ",
+    "price": " 129,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/92151-creme-baume-collagene-malachite-8015150218788.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 175,000DT ",
+    "price": " 140,000DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/92154-creme-baume-collagene-malachite-8015150218801.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 201,000DT ",
+    "price": " 160,800DT ",
+    "link": "https://www.pointm.tn/soin-hydratant/46356-creme-fondante-sublime-pour-le-corps-8015150251952.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 30,000DT ",
+    "price": " 24,000DT ",
+    "link": "https://www.pointm.tn/blush/716-creme-puff-blush.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 30,500DT ",
+    "price": " 24,400DT ",
+    "link": "https://www.pointm.tn/poudre/774-creme-puff-refil.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 201,000DT ",
+    "price": " 150,750DT ",
+    "link": "https://www.pointm.tn/soin-specifique/78745-creme-raffermissante-intensive-plus-8015150250573.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 508,000DT ",
+    "price": " 406,400DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/1366-creme-reparatrice-au-beurre-de-karite.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 109,000DT ",
+    "price": " 87,200DT ",
+    "link": "https://www.pointm.tn/protection-solaire/3184-creme-visage-bronzante-protection-globale-anti-age-spf30-8015150260596.html"
+  },
+  {
+    "name": "MARC JACOBS",
+    "regular-price": " 271,000DT ",
+    "price": " 216,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1604-daisy-dream.html"
+  },
+  {
+    "name": "MARC JACOBS",
+    "regular-price": " 271,000DT ",
+    "price": " 216,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/80574-daisy-eau-so-fresh.html"
+  },
+  {
+    "name": "MARC JACOBS",
+    "regular-price": " 206,000DT ",
+    "price": " 164,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/128895-daisy-ever-so-fresh.html"
+  },
+  {
+    "name": "CARVEN",
+    "regular-price": " 167,000DT ",
+    "price": " 116,900DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2147-dans-ma-bulle.html"
+  },
+  {
+    "name": "CARVEN",
+    "regular-price": " 245,000DT ",
+    "price": " 183,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/80906-dans-ma-bulle-3355991224490.html"
+  },
+  {
+    "name": "CARVEN",
+    "regular-price": " 265,000DT ",
+    "price": " 198,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/99266-dans-ma-bulle-3355991225336.html"
+  },
+  {
+    "name": "CARTIER",
+    "regular-price": " 259,000DT ",
+    "price": " 207,200DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/87997-declaration.html"
+  },
+  {
+    "name": "CALVIN KLEIN",
+    "regular-price": " 254,000DT ",
+    "price": " 203,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/118175-defy-for-him.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 179,000DT ",
+    "price": " 143,200DT ",
+    "link": "https://www.pointm.tn/nettoyant-demaquillant/1367-demaquillant-doux-yeux-et-levres.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/crayon-eyeliner/837-dessin-du-regard-waterproof.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 80,000DT ",
+    "price": " 60,000DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/70158-drama-liqui-pencil.html"
+  },
+  {
+    "name": "HERMÈS",
+    "regular-price": " 301,000DT ",
+    "price": " 240,800DT ",
+    "link": "https://www.pointm.tn/eau-de-cologne/2508-eau-de-citron-noir.html"
+  },
+  {
+    "name": "ARMANI PRIVÉ",
+    "regular-price": " 741,000DT ",
+    "price": " 518,700DT ",
+    "link": "https://www.pointm.tn/eau-de-cologne/2694-eau-de-jade.html"
+  },
+  {
+    "name": "LACOSTE",
+    "regular-price": " 253,000DT ",
+    "price": " 177,100DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2712-eau-de-lacoste-l1212-french-panache-pour-elle.html"
+  },
+  {
+    "name": "Women'secret",
+    "regular-price": " 36,000DT ",
+    "price": " 27,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1266-eau-it-s-fresh.html"
+  },
+  {
+    "name": "Women'secret",
+    "regular-price": " 36,000DT ",
+    "price": " 27,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1265-eau-my-delice.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 239,000DT ",
+    "price": " 179,250DT ",
+    "link": "https://www.pointm.tn/serum/98299-elixir-active-energie-lift-3760096764114.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 228,000DT ",
+    "price": " 159,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/635-lixir-temps-prcieux.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 297,000DT ",
+    "price": " 222,750DT ",
+    "link": "https://www.pointm.tn/serum/636-lixir-temps-sublime.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 441,000DT ",
+    "price": " 352,800DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/1375-emulsion-ecologique.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 184,000DT ",
+    "price": " 128,800DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/819-encre-de-peau-all-hours.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 202,000DT ",
+    "price": " 151,500DT ",
+    "link": "https://www.pointm.tn/poudre/127363-encre-de-peau-all-hours-setting-powder.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 219,000DT ",
+    "price": " 175,200DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/105073-essential-energy-creme-activatrice-dhydratation.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 219,000DT ",
+    "price": " 175,200DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/105074-essential-energy-creme-jour-hydratation-spf20.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 277,000DT ",
+    "price": " 221,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/2597-essential-energy-creme-jour-spf20.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 288,000DT ",
+    "price": " 230,400DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/98402-essential-energy-day-emulsion-spf-20-0768614143246.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 232,000DT ",
+    "price": " 185,600DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/2596-essential-energy-soin-yeux-correcteur.html"
+  },
+  {
+    "name": "CALVIN KLEIN",
+    "regular-price": " 195,000DT ",
+    "price": " 156,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1618-eternity-now-for-men.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 154,000DT ",
+    "price": " 123,200DT ",
+    "link": "https://www.pointm.tn/poudre/2073-everlasting-compact-foundation.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 152,000DT ",
+    "price": " 121,600DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/20186-everlasting-fond-de-teint.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 226,500DT ",
+    "price": " 181,200DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/2221-extra-firming-yeux-3380810272079.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 77,000DT ",
+    "price": " 38,500DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/884-eye-brow-powder.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 52,000DT ",
+    "price": " 26,000DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/885-eye-brow-styler.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 59,000DT ",
+    "price": " 35,400DT ",
+    "link": "https://www.pointm.tn/fard-a-paupieres/1643-eye-color.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 22,000DT ",
+    "price": " 16,500DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/704-eye-luminizer.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 42,000DT ",
+    "price": " 25,200DT ",
+    "link": "https://www.pointm.tn/fard-a-paupieres/889-eye-shadow.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 17,000DT ",
+    "price": " 13,600DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/722-eyebrow-pencil.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 28,000DT ",
+    "price": " 19,600DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/2437-eyebrow-pencil.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 48,000DT ",
+    "price": " 36,000DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/1219-eyeliner-intensment-feutre.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 24,000DT ",
+    "price": " 19,200DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/83596-eyeshadow-kajal-pencil.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 62,000DT ",
+    "price": " 43,400DT ",
+    "link": "https://www.pointm.tn/blush/2413-face-sculptor.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 41,000DT ",
+    "price": " 28,700DT ",
+    "link": "https://www.pointm.tn/teint/2457-face-sculptor-blush-brush-7317851192307.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 66,000DT ",
+    "price": " 52,800DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/696-facefinity-all-day-flawless-3-in-1-spf-20-.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 59,000DT ",
+    "price": " 47,200DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/95266-facefinity-all-day-matte-panstik.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 23,000DT ",
+    "price": " 16,100DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/931-faux-cils-individuel-8412122442354.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 23,000DT ",
+    "price": " 17,250DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/928-faux-cils-longueur-8412122442323.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 23,000DT ",
+    "price": " 17,250DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/930-faux-cils-longueur-extra-8412122442347.html"
+  },
+  {
+    "name": "MAYBELLINE",
+    "regular-price": " 44,000DT ",
+    "price": " 35,200DT ",
+    "link": "https://www.pointm.tn/blush/111661-fit-me.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/crayon-eyeliner/327-flashliner-waterproof.html"
+  },
+  {
+    "name": "VIKTOR & ROLF",
+    "regular-price": " 267,000DT ",
+    "price": " 213,600DT ",
+    "link": "https://www.pointm.tn/parfum-femme/112946-flowerbomb-ruby-orchid.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 35,000DT ",
+    "price": " 17,500DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1502-fluid-velvet-lipstick.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 90,000DT ",
+    "price": " 63,000DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/127360-fluide-barbe.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 145,000DT ",
+    "price": " 108,750DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/98300-fluide-hydratant-3760096761823.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 87,000DT ",
+    "price": " 65,250DT ",
+    "link": "https://www.pointm.tn/demaquillant-visage/624-fluide-lact-exquis.html"
+  },
+  {
+    "name": "NARCISO RODRIGUEZ",
+    "regular-price": " 248,000DT ",
+    "price": " 148,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3131-for-him-bleu-noir-extreme.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 41,000DT ",
+    "price": " 28,700DT ",
+    "link": "https://www.pointm.tn/teint/2456-foundation-brush-7317851192185.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 215,000DT ",
+    "price": " 161,250DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3344-fusion-d-issey.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 211,000DT ",
+    "price": " 147,700DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/4826-fusion-d-issey-3423478976450.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 215,000DT ",
+    "price": " 150,500DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/45226-fusion-d-issey-3423222010706.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 248,000DT ",
+    "price": " 173,600DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette-intense/66864-fusion-d-issey.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 390,000DT ",
+    "price": " 312,000DT ",
+    "link": "https://www.pointm.tn/poudre/3159-future-solution-lx-poudre-libre-eclat-integral-0729238139428.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 254,000DT ",
+    "price": " 203,200DT ",
+    "link": "https://www.pointm.tn/nettoyant-demaquillant/1378-gel-doux-nettoyant-aux-rsines-tropicales.html"
+  },
+  {
+    "name": "EVOLUDERM",
+    "regular-price": " 17,000DT ",
+    "price": " 13,600DT ",
+    "link": "https://www.pointm.tn/soin-pieds/2474-gel-rafraichissant-jambes-pieds.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 61,000DT ",
+    "price": " 48,800DT ",
+    "link": "https://www.pointm.tn/rasage-apres-rasage/1301-gel-technique-rasage-parfait-8015150280242.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 298,000DT ",
+    "price": " 208,600DT ",
+    "link": "https://www.pointm.tn/soin-de-nuit/271-genifique-repair.html"
+  },
+  {
+    "name": "GIVENCHY",
+    "regular-price": " 372,000DT ",
+    "price": " 297,600DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/2882-gentleman-3274872393349.html"
+  },
+  {
+    "name": "GIVENCHY",
+    "regular-price": " 240,000DT ",
+    "price": " 192,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/104166-gentleman-3274872424999.html"
+  },
+  {
+    "name": "GIVENCHY",
+    "regular-price": " 359,000DT ",
+    "price": " 215,400DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette-intense/105612-gentleman-3274872439948.html"
+  },
+  {
+    "name": "GIVENCHY",
+    "regular-price": " 406,000DT ",
+    "price": " 324,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/106639-gentleman-eau-de-parfum-boisee-3274872439962.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 208,000DT ",
+    "price": " 166,400DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/22272-ginza.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 208,000DT ",
+    "price": " 166,400DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/113500-ginza-murasaki.html"
+  },
+  {
+    "name": "ELIE SAAB",
+    "regular-price": " 406,000DT ",
+    "price": " 324,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1607-girl-of-now-forever.html"
+  },
+  {
+    "name": "ELIE SAAB",
+    "regular-price": " 314,000DT ",
+    "price": " 251,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/102265-girl-of-now-lovely.html"
+  },
+  {
+    "name": "Women'secret",
+    "regular-price": " 58,000DT ",
+    "price": " 43,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2636-gold-seduction.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 34,000DT ",
+    "price": " 27,200DT ",
+    "link": "https://www.pointm.tn/gommage-peeling/111218-gommage-doux-8009518247381.html"
+  },
+  {
+    "name": "EVOLUDERM",
+    "regular-price": " 19,000DT ",
+    "price": " 15,200DT ",
+    "link": "https://www.pointm.tn/soin-pieds/3540-gommage-pieds-lissant.html"
+  },
+  {
+    "name": "CAROLINA HERRERA",
+    "regular-price": " 435,000DT ",
+    "price": " 326,250DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107402-good-girl-8411061038000.html"
+  },
+  {
+    "name": "CAROLINA HERRERA",
+    "regular-price": " 470,000DT ",
+    "price": " 352,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/42971-good-girl-supreme-8411061010679.html"
+  },
+  {
+    "name": "Gucci",
+    "regular-price": " 299,000DT ",
+    "price": " 239,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2566-gucci-bloom-nettare-di-fiori.html"
+  },
+  {
+    "name": "Gucci",
+    "regular-price": " 234,000DT ",
+    "price": " 175,500DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/80935-gucci-guilty-pour-femme.html"
+  },
+  {
+    "name": "BOURJOIS",
+    "regular-price": " 67,000DT ",
+    "price": " 46,900DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/15791-healthy-mix.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 357,000DT ",
+    "price": " 267,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2689-her-blossom.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 334,000DT ",
+    "price": " 250,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3001-her-intense.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 211,000DT ",
+    "price": " 168,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/98126-her-london-dream.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/fard-a-paupieres/1569-hi-tech-shadow-trio.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 185,500DT ",
+    "price": " 148,400DT ",
+    "link": "https://www.pointm.tn/huile-de-douche/2027-huile-relax.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 616,000DT ",
+    "price": " 492,800DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/1383-huile-precieuse-a-la-rose-noire.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 569,000DT ",
+    "price": " 455,200DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/1384-hydra-flash.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 249,000DT ",
+    "price": " 174,300DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/2051-hydra-sculpt-men.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 258,000DT ",
+    "price": " 193,500DT ",
+    "link": "https://www.pointm.tn/soin-de-nuit/444-hydra-zen-nuit.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 691,000DT ",
+    "price": " 552,800DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/1385-hydra-global.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 129,000DT ",
+    "price": " 103,200DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/79072-hydratant-fraicheur-totale-8015150285254.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 129,000DT ",
+    "price": " 103,200DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/79073-hydratant-non-gras-8015150285261.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 129,000DT ",
+    "price": " 103,200DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/46137-hydratant-protecteur-quotidien-8015150285247.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 106,000DT ",
+    "price": " 84,800DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/1314-hydro-gel-yeux-8015150211192.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 114,000DT ",
+    "price": " 91,200DT ",
+    "link": "https://www.pointm.tn/masque-visage/1315-hydro-masque-sos-hydratation-8015150211239.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 107,000DT ",
+    "price": " 80,250DT ",
+    "link": "https://www.pointm.tn/mascara/2259-hypnose.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 21,000DT ",
+    "price": " 16,800DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/335-ideal-sourcils-noir.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/eau-de-parfum/2657-in-love-with-you.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/crayon-eyeliner/2440-inliner-kajal.html"
+  },
+  {
+    "name": "MAYBELLINE",
+    "regular-price": " 46,000DT ",
+    "price": " 36,800DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/111709-instant-age-rewind.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 59,000DT ",
+    "price": " 44,250DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/3012-instant-lift-foundation.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 259,000DT ",
+    "price": " 194,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/593-intense.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 185,000DT ",
+    "price": " 138,750DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/595-intenso.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 239,000DT ",
+    "price": " 191,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/115976-invictus-platinum.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 325,000DT ",
+    "price": " 260,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/26900-invictus-victory-eau-de-parfum-extreme.html"
+  },
+  {
+    "name": "ARMANI PRIVÉ",
+    "regular-price": " 860,000DT ",
+    "price": " 602,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/177-iris-celadon.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 356,000DT ",
+    "price": " 284,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/44999-izia-la-nuit.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 122,000DT ",
+    "price": " 97,600DT ",
+    "link": "https://www.pointm.tn/blush/2740-joli-blush.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 73,000DT ",
+    "price": " 54,750DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/48279-joli-rouge-crayon.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 82,000DT ",
+    "price": " 65,600DT ",
+    "link": "https://www.pointm.tn/baume-a-levres/2282-joli-rouge-lacquer.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 89,000DT ",
+    "price": " 71,200DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2096-joli-rouge-velvet.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 101,000DT ",
+    "price": " 80,800DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/2623-kajal-ink-artist.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 68,000DT ",
+    "price": " 51,000DT ",
+    "link": "https://www.pointm.tn/yeux/96262-kit-cocoon-vegan-3034646532035.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 55,000DT ",
+    "price": " 41,250DT ",
+    "link": "https://www.pointm.tn/yeux/96258-kit-gold-zebra-3034646532059.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 47,000DT ",
+    "price": " 28,200DT ",
+    "link": "https://www.pointm.tn/levres/1861-kit-hysteria-lips-duo.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 55,000DT ",
+    "price": " 41,250DT ",
+    "link": "https://www.pointm.tn/yeux/96259-kit-oohlala-3034646532011.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 109,000DT ",
+    "price": " 76,300DT ",
+    "link": "https://www.pointm.tn/gloss/789-l-absolu-gloss.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 118,000DT ",
+    "price": " 88,500DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2257-l-absolu-lacquer.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 127,000DT ",
+    "price": " 95,250DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/78020-l-absolu-rouge-drama-ink.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 114,000DT ",
+    "price": " 79,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2268-l-absolu-rouge-drama-matte.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 117,000DT ",
+    "price": " 87,750DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/4816-l-absolu-rouge-ruby-cream.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 54,000DT ",
+    "price": " 37,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1210-l-authentique.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/eau-de-toilette/540-l-eau-d-issey-pour-homme.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 248,000DT ",
+    "price": " 173,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2688-l-eau-d-issey-pour-homme-wood-wood.html"
+  },
+  {
+    "name": "LABEAU FRAGRANCES",
+    "regular-price": " 79,000DT ",
+    "price": " 55,300DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2643-l-eau-d-oranger.html"
+  },
+  {
+    "name": "LABEAU FRAGRANCES",
+    "regular-price": " 98,000DT ",
+    "price": " 68,600DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2638-l-eau-de-jasmin.html"
+  },
+  {
+    "name": "LABEAU FRAGRANCES",
+    "regular-price": " 98,000DT ",
+    "price": " 68,600DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2640-l-eau-de-the-vert.html"
+  },
+  {
+    "name": "GIVENCHY",
+    "regular-price": " 346,000DT ",
+    "price": " 276,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3162-l-interdit.html"
+  },
+  {
+    "name": "JEAN PAUL GAULTIER",
+    "regular-price": " 403,000DT ",
+    "price": " 302,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2555-la-belle.html"
+  },
+  {
+    "name": "JEAN PAUL GAULTIER",
+    "regular-price": " 298,000DT ",
+    "price": " 223,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/26857-la-belle-le-parfum.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 455,000DT ",
+    "price": " 364,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum-intense/97023-la-nuit-tresor-intense.html"
+  },
+  {
+    "name": "CARTIER",
+    "regular-price": " 368,000DT ",
+    "price": " 276,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/38657-la-panthere.html"
+  },
+  {
+    "name": "CARTIER",
+    "regular-price": " 366,000DT ",
+    "price": " 274,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum-intense/41079-la-panthere-parfum.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 245,000DT ",
+    "price": " 171,500DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2251-la-vie-est-belle-en-rose.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 357,000DT ",
+    "price": " 285,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3259-lady-million.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 184,000DT ",
+    "price": " 147,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2610-lady-million-empire.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 376,000DT ",
+    "price": " 300,800DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107502-lady-million-fabulous-3349668604371.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 202,000DT ",
+    "price": " 141,400DT ",
+    "link": "https://www.pointm.tn/demaquillant-visage/95530-lait-demaquillant-enrichi-0768614118756.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 183,000DT ",
+    "price": " 146,400DT ",
+    "link": "https://www.pointm.tn/nettoyant-visage/2583-lait-moussant-nettoyant-enrichi.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 69,000DT ",
+    "price": " 55,200DT ",
+    "link": "https://www.pointm.tn/solaire/109125-lait-solaire-spray-spf-20-moyenne-protection-visage-et-corps-8009518293777.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 123,000DT ",
+    "price": " 92,250DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2631-laque-lvres-ink.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 54,000DT ",
+    "price": " 32,400DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1214-laque-a-levres-intensement-mat.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 40,000DT ",
+    "price": " 32,000DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/694-lasting-performance-fond-de-teint-longue-tenue.html"
+  },
+  {
+    "name": "ELIE SAAB",
+    "regular-price": " 219,000DT ",
+    "price": " 175,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2742-le-parfum-royal.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 151,000DT ",
+    "price": " 120,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1390-le-phyto-rouge.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 167,000DT ",
+    "price": " 125,250DT ",
+    "link": "https://www.pointm.tn/masque/80259-le-wrap-temps-sublime-3760096761328.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 221,000DT ",
+    "price": " 165,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/68600-libre.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 268,000DT ",
+    "price": " 214,400DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107660-light-blue-3423222051600.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 257,000DT ",
+    "price": " 192,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3228-light-blue-love-is-love.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 200,000DT ",
+    "price": " 160,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/45807-light-blue-forever-pour-femme.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 179,000DT ",
+    "price": " 134,250DT ",
+    "link": "https://www.pointm.tn/parfum-femme/115074-light-blue-italian-love.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 226,000DT ",
+    "price": " 180,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/115077-light-blue-italian-love.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 256,000DT ",
+    "price": " 204,800DT ",
+    "link": "https://www.pointm.tn/parfum-homme/764-light-blue-pour-homme-eau-intense.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 40,000DT ",
+    "price": " 28,000DT ",
+    "link": "https://www.pointm.tn/gloss/2394-lip-booster.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 39,000DT ",
+    "price": " 27,300DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2389-lip-desire-sculpting-lipstick.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 34,000DT ",
+    "price": " 27,200DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/747-lipfinity.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 49,000DT ",
+    "price": " 29,400DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/888-liquid-eye-designer.html"
+  },
+  {
+    "name": "pepe jeans",
+    "regular-price": " 186,000DT ",
+    "price": " 130,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/97574-london-calling-for-her.html"
+  },
+  {
+    "name": "pepe jeans",
+    "regular-price": " 186,000DT ",
+    "price": " 130,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/97575-london-calling-for-him.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 287,000DT ",
+    "price": " 229,600DT ",
+    "link": "https://www.pointm.tn/lotion-tonique/1391-lotion-au-pamplemousse.html"
+  },
+  {
+    "name": "MY CLARINS",
+    "regular-price": " 89,000DT ",
+    "price": " 71,200DT ",
+    "link": "https://www.pointm.tn/purifiant-matifiant/99081-lotion-purete-matifiante-3666057025310.html"
+  },
+  {
+    "name": "EVOLUDERM",
+    "regular-price": " 18,000DT ",
+    "price": " 14,400DT ",
+    "link": "https://www.pointm.tn/anti-imperfection/4768-lotion-purifiante-anti-imperfections.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 258,000DT ",
+    "price": " 206,400DT ",
+    "link": "https://www.pointm.tn/nettoyant-visage/1392-lotion-purifiante-quilibrante-aux-rsines-tropicales.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 81,000DT ",
+    "price": " 64,800DT ",
+    "link": "https://www.pointm.tn/lotion-tonique/22328-lotion-tonique-apaisante.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/lotion-tonique/22326-lotion-tonique-hydratante.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/lotion-tonique/26665-lotion-tonique-purifiante-aux-extraits-de-reine-des-pres-fleur-de-safran-clarins.html"
+  },
+  {
+    "name": "EVOLUDERM",
+    "regular-price": " 14,000DT ",
+    "price": " 11,200DT ",
+    "link": "https://www.pointm.tn/nettoyant-demaquillant/2464-lotion-tonique-rafraichissante-peaux-normales.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 107,000DT ",
+    "price": " 74,900DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2824-labsolu-rouge-fini-mat.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 270,000DT ",
+    "price": " 189,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3182-lincenso.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 112,000DT ",
+    "price": " 84,000DT ",
+    "link": "https://www.pointm.tn/bb-cc-cremes/46129-magica-bb-detox.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 62,000DT ",
+    "price": " 31,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/870-magnetic-lip.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 203,000DT ",
+    "price": " 162,400DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/72000-magnifica-contour-des-yeux-redensifiant-reparateur-8015150244442.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 282,000DT ",
+    "price": " 225,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/71998-magnifica-creme-repulpante-redensifiante-visage-et-cou-8015150244428.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 299,000DT ",
+    "price": " 239,200DT ",
+    "link": "https://www.pointm.tn/serum/72002-magnifica-serum-redensifiant-reparateur-visage-et-cou-8015150244459.html"
+  },
+  {
+    "name": "BVLGARI",
+    "regular-price": " 498,000DT ",
+    "price": " 373,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/102950-man-terrae-essence-0783320417726.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 133,000DT ",
+    "price": " 99,750DT ",
+    "link": "https://www.pointm.tn/mascara/129121-mascara-volume-effet-faux-cils.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 40,000DT ",
+    "price": " 32,000DT ",
+    "link": "https://www.pointm.tn/mascara/117930-mascara-wild-volume-summer-edition-3034642800046.html"
+  },
+  {
+    "name": "EVOLUDERM",
+    "regular-price": " 25,000DT ",
+    "price": " 20,000DT ",
+    "link": "https://www.pointm.tn/soin-cheveux/2488-masque-cheveux-regenerant-color.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 382,000DT ",
+    "price": " 305,600DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/1397-masque-contour-des-yeux.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 329,000DT ",
+    "price": " 263,200DT ",
+    "link": "https://www.pointm.tn/masque-visage/1399-masque-eclat-express-a-l-argile-rouge.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 37,000DT ",
+    "price": " 29,600DT ",
+    "link": "https://www.pointm.tn/masque/72008-masque-micromagnetique-collagene-8015150218436.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 79,000DT ",
+    "price": " 63,200DT ",
+    "link": "https://www.pointm.tn/masque-cheveux/92162-masque-regenerateur-de-couleur-longue-duree-8015150291767.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 79,000DT ",
+    "price": " 63,200DT ",
+    "link": "https://www.pointm.tn/masque-cheveux/92161-masque-renforcant-extra-volume-8015150290517.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 44,000DT ",
+    "price": " 35,200DT ",
+    "link": "https://www.pointm.tn/mascara/736-masterpiece-max.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 81,000DT ",
+    "price": " 64,800DT ",
+    "link": "https://www.pointm.tn/fard-a-paupieres/1759-masterpiece-nude-palette.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 29,000DT ",
+    "price": " 21,750DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/703-mastertouch-concealer.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 33,000DT ",
+    "price": " 24,750DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1637-mat-hysteria.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 51,000DT ",
+    "price": " 30,600DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/873-mat-lip-fluid-longlasting.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 49,000DT ",
+    "price": " 29,400DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/860-mat-lip-stylo.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 31,000DT ",
+    "price": " 23,250DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/1865-mat-perfect-correcteur-liquide.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 33,500DT ",
+    "price": " 20,100DT ",
+    "link": "https://www.pointm.tn/mascara/1860-maxi-sourcilmatic.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 201,000DT ",
+    "price": " 160,800DT ",
+    "link": "https://www.pointm.tn/soin-specifique/78747-maxi-size-anticellulite-draining-gel-mud-8015150252898.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 230,000DT ",
+    "price": " 172,500DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/116095-men-revitalizer-eye-cream-0729238184107.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 28,000DT ",
+    "price": " 19,600DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/702-mf-cc-stick-colour-corrector.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 18,000DT ",
+    "price": " 14,400DT ",
+    "link": "https://www.pointm.tn/vernis-a-ongles/759-mf-glossfnity-gel-shine-lacquer.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 32,000DT ",
+    "price": " 25,600DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1501-milano-red-long-lasting.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 34,000DT ",
+    "price": " 27,200DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/3554-milano-red-mat.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 39,000DT ",
+    "price": " 29,250DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2673-milano-red-metal.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 74,000DT ",
+    "price": " 44,400DT ",
+    "link": "https://www.pointm.tn/poudre/1646-mineral-compact-powder.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 58,000DT ",
+    "price": " 34,800DT ",
+    "link": "https://www.pointm.tn/poudre/1644-mineral-powder-foundation.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 48,500DT ",
+    "price": " 38,800DT ",
+    "link": "https://www.pointm.tn/poudre/705-miracle-touch-skin-smoothing-foundation.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 123,000DT ",
+    "price": " 92,250DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2630-modernmatte-powder.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 27,000DT ",
+    "price": " 21,600DT ",
+    "link": "https://www.pointm.tn/lotion-tonique/1557-moisturizing-tonic-lotion.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 240,000DT ",
+    "price": " 168,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1633-mon-paris-couture.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 261,000DT ",
+    "price": " 195,750DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum-intense/3402-mon-paris-intensement.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 247,000DT ",
+    "price": " 185,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2650-mon-paris-parfum-floral.html"
+  },
+  {
+    "name": "InoDerma",
+    "regular-price": " 46,000DT ",
+    "price": " 34,500DT ",
+    "link": "https://www.pointm.tn/protection-solaire/114377-monoi-hair-mist-6192488104166.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/mascara/490-monsieur-big.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 50,000DT ",
+    "price": " 40,000DT ",
+    "link": "https://www.pointm.tn/rasage-apres-rasage/1303-mousse-a-raser-parfaite-adherence-8015150280426.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 272,000DT ",
+    "price": " 204,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1326-mr-burberry.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 232,000DT ",
+    "price": " 162,400DT ",
+    "link": "https://www.pointm.tn/parfum-homme/1327-mr-burberry.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 232,000DT ",
+    "price": " 162,400DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/48262-mr-burberry-indigo.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 236,000DT ",
+    "price": " 165,200DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3391-mrburberry-element.html"
+  },
+  {
+    "name": "MUGLER",
+    "regular-price": " 287,000DT ",
+    "price": " 200,900DT ",
+    "link": "https://www.pointm.tn/parfum-homme/116938-mugler-3614273693233.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 255,000DT ",
+    "price": " 204,000DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/1988-multi-active-nuit-lgre-peaux-normales-mixtes.html"
+  },
+  {
+    "name": "BURBERRY",
+    "regular-price": " 437,000DT ",
+    "price": " 327,750DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1322-my-burberry-black.html"
+  },
+  {
+    "name": "MY CLARINS",
+    "regular-price": " 81,000DT ",
+    "price": " 64,800DT ",
+    "link": "https://www.pointm.tn/eau-micellaire/20194-my-clarins-re-move-eau-micellaire-demaquillante-3380810437843.html"
+  },
+  {
+    "name": "MY CLARINS",
+    "regular-price": " 84,000DT ",
+    "price": " 67,200DT ",
+    "link": "https://www.pointm.tn/eau-micellaire/2228-my-clarins-re-move-eau-lactee-micellaire-3380810258264.html"
+  },
+  {
+    "name": "NARCISO RODRIGUEZ",
+    "regular-price": " 365,000DT ",
+    "price": " 292,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/41814-narciso-eau-neroli-ambree.html"
+  },
+  {
+    "name": "NARCISO RODRIGUEZ",
+    "regular-price": " 322,000DT ",
+    "price": " 257,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/556-narciso-rouge.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/blush/1511-natural-blush.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 56,000DT ",
+    "price": " 39,200DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/2421-natural-matt-foundation.html"
+  },
+  {
+    "name": "FRANCK OLIVIER",
+    "regular-price": " 18,000DT ",
+    "price": " 13,500DT ",
+    "link": "https://www.pointm.tn/deodorant/28626-nature.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 42,000DT ",
+    "price": " 31,500DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/1512-newskin-compact-foundation.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 231,000DT ",
+    "price": " 184,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/212-noa.html"
+  },
+  {
+    "name": "CHLOÉ",
+    "regular-price": " 270,000DT ",
+    "price": " 189,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2283-nomade.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 274,000DT ",
+    "price": " 219,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/545-nuit-d-issey.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 417,000DT ",
+    "price": " 333,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/3212-nutri-lumiere-jour-anti-age.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 36,500DT ",
+    "price": " 29,200DT ",
+    "link": "https://www.pointm.tn/blush/412-oh-my-maxi-blush.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 65,000DT ",
+    "price": " 39,000DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/893-oil-free-foundation.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 184,000DT ",
+    "price": " 147,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/26897-olympea-blossom.html"
+  },
+  {
+    "name": "BVLGARI",
+    "regular-price": " 271,000DT ",
+    "price": " 216,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/88226-omnia-crystalline.html"
+  },
+  {
+    "name": "DIESEL",
+    "regular-price": " 164,000DT ",
+    "price": " 114,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1474-only-the-brave-street.html"
+  },
+  {
+    "name": "DIESEL",
+    "regular-price": " 190,000DT ",
+    "price": " 133,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/213-only-the-brave-tatoo.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 164,000DT ",
+    "price": " 131,200DT ",
+    "link": "https://www.pointm.tn/yeux/2625-palette-yeux-essentialist.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 28,000DT ",
+    "price": " 22,400DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/701-panstik.html"
+  },
+  {
+    "name": "ROBERTO CAVALLI",
+    "regular-price": " 320,000DT ",
+    "price": " 240,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2324-paradiso-azzuro.html"
+  },
+  {
+    "name": "MARC JACOBS",
+    "regular-price": " 440,000DT ",
+    "price": " 352,000DT ",
+    "link": "https://www.pointm.tn/parfum-femme/108839-perfect-3616302939428.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 42,000DT ",
+    "price": " 33,600DT ",
+    "link": "https://www.pointm.tn/blush/93644-perfect-blush.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 21,000DT ",
+    "price": " 16,800DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/2441-perfect-contour-kajal.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 31,000DT ",
+    "price": " 21,700DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/2393-perfect-lipliner.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 227,000DT ",
+    "price": " 181,600DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/70838-phantom.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 375,000DT ",
+    "price": " 262,500DT ",
+    "link": "https://www.pointm.tn/nettoyant-demaquillant/1409-phyto-blanc-nettoyant-moussant-3473311595003.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 194,000DT ",
+    "price": " 155,200DT ",
+    "link": "https://www.pointm.tn/blush/130011-phyto-blush.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/crayon-eyeliner/1422-phyto-khol-star-waterproof.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 170,000DT ",
+    "price": " 136,000DT ",
+    "link": "https://www.pointm.tn/crayon-poudre-sourcils/1430-phyto-sourcils-design.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 312,000DT ",
+    "price": " 249,600DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/1433-phyto-teint-expert.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 43,000DT ",
+    "price": " 32,250DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/937-pince-de-manucure-superpose-8412122340438.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 31,000DT ",
+    "price": " 18,600DT ",
+    "link": "https://www.pointm.tn/teint/1486-pinceau-a-double-embout-8412122640095.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 58,000DT ",
+    "price": " 40,600DT ",
+    "link": "https://www.pointm.tn/teint/1481-pinceau-a-fard-a-joues-8412122640040.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 12,000DT ",
+    "price": " 9,000DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/920-pinceau-lvres-8412122223472.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 32,000DT ",
+    "price": " 19,200DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/909-pinceau-contouring-8412122222499.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 14,000DT ",
+    "price": " 10,500DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/943-pinceau-correcteur-8412122222390.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 50,000DT ",
+    "price": " 30,000DT ",
+    "link": "https://www.pointm.tn/teint/1482-pinceau-de-precision-pour-fard-a-joues-8412122640057.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 54,000DT ",
+    "price": " 40,500DT ",
+    "link": "https://www.pointm.tn/teint/1484-pinceau-de-precision-pour-maquillage-fluide-8412122640071.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 21,000DT ",
+    "price": " 12,600DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/944-pinceau-diffuseur-8412122223434.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 17,000DT ",
+    "price": " 12,750DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/901-pinceau-double-cils-et-sourcils-8412122222383.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 14,000DT ",
+    "price": " 9,800DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/904-pinceau-fin-pour-ombre-a-paupiere-8412122222420.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 42,000DT ",
+    "price": " 25,200DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/919-pinceau-flat-top-kabuki-8412122223465.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 29,000DT ",
+    "price": " 17,400DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/924-pinceau-kabuki-maquillage-fluide-8412122223557.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 15,000DT ",
+    "price": " 11,250DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/907-pinceau-ombreur-de-prcision-8412122222451.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 21,000DT ",
+    "price": " 14,700DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/915-pinceau-ombreur-de-prcision-8412122223397.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 25,000DT ",
+    "price": " 17,500DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/925-pinceau-ovale-8412122223564.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 58,000DT ",
+    "price": " 40,600DT ",
+    "link": "https://www.pointm.tn/teint/1480-pinceau-poudre-precision-8412122640026.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 18,000DT ",
+    "price": " 10,800DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/914-pinceau-pour-les-sourcils-8412122223380.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 50,000DT ",
+    "price": " 35,000DT ",
+    "link": "https://www.pointm.tn/teint/1483-pinceau-pour-maquillage-fluide-8412122640064.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 20,000DT ",
+    "price": " 15,000DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/917-pinceau-pour-ombre-paupires-8412122223427.html"
+  },
+  {
+    "name": "Beter elite",
+    "regular-price": " 25,000DT ",
+    "price": " 12,500DT ",
+    "link": "https://www.pointm.tn/yeux-sourcils/1487-pinceau-pour-ombres-a-paupieres-8412122640101.html"
+  },
+  {
+    "name": "Beter",
+    "regular-price": " 28,000DT ",
+    "price": " 16,800DT ",
+    "link": "https://www.pointm.tn/pinceaux-accessoires/912-pinceau-yachiyo-8412122223366.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 40,000DT ",
+    "price": " 32,000DT ",
+    "link": "https://www.pointm.tn/maquillage/71523-poudre-bronzante-bronze-perfect.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 60,000DT ",
+    "price": " 42,000DT ",
+    "link": "https://www.pointm.tn/poudre/1229-poudre-evidemment-compacte.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 162,000DT ",
+    "price": " 129,600DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/92150-pure-active-collagene-glycogene-8015150218771.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 53,000DT ",
+    "price": " 31,800DT ",
+    "link": "https://www.pointm.tn/fard-a-paupieres/1653-pure-pigments.html"
+  },
+  {
+    "name": "paco rabanne",
+    "regular-price": " 220,000DT ",
+    "price": " 176,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3271-pure-xs.html"
+  },
+  {
+    "name": "MAX FACTOR",
+    "regular-price": " 76,000DT ",
+    "price": " 60,800DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/1757-radiant-lift-long-lasting-radiance.html"
+  },
+  {
+    "name": "MY CLARINS",
+    "regular-price": " 77,000DT ",
+    "price": " 61,600DT ",
+    "link": "https://www.pointm.tn/exfoliant/3215-re-move-poudre-exfoliante-eclat-3380810346688.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 69,000DT ",
+    "price": " 41,400DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/1651-real-conceal.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 40,500DT ",
+    "price": " 28,350DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/1854-roller-coaster-liner.html"
+  },
+  {
+    "name": "ISSEY MIYAKE",
+    "regular-price": " 199,000DT ",
+    "price": " 149,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3009-rose-rose.html"
+  },
+  {
+    "name": "ARMANI PRIVÉ",
+    "regular-price": " 520,000DT ",
+    "price": " 390,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2692-rose-alexandrie.html"
+  },
+  {
+    "name": "BVLGARI",
+    "regular-price": " 235,000DT ",
+    "price": " 188,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/2853-rose-goldea.html"
+  },
+  {
+    "name": "BVLGARI",
+    "regular-price": " 393,000DT ",
+    "price": " 275,100DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/73280-rose-goldea-blossom-delight-783320414183.html"
+  },
+  {
+    "name": "Women'secret",
+    "regular-price": " 60,000DT ",
+    "price": " 45,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3382-rose-seduction-8436581941630.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 54,000DT ",
+    "price": " 37,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1213-rouge-couleur-intense.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/rouge-a-levres/62077-rouge-edition-velvet.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 54,000DT ",
+    "price": " 40,500DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1211-rouge-evidemment-creme.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 54,000DT ",
+    "price": " 40,500DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1212-rouge-intensement-mat.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 140,000DT ",
+    "price": " 105,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/858-rouge-pur-couture.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 140,000DT ",
+    "price": " 105,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/67189-rouge-pur-couture-the-slim.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 142,000DT ",
+    "price": " 99,400DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/48436-rouge-pur-couture-the-slim-glow-matte.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 140,000DT ",
+    "price": " 98,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/127567-rouge-pur-couture-the-slim-velvet-radical.html"
+  },
+  {
+    "name": "BOURJOIS",
+    "regular-price": " 57,000DT ",
+    "price": " 39,900DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/103750-rouge-velvet-ink.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 100,000DT ",
+    "price": " 70,000DT ",
+    "link": "https://www.pointm.tn/gommage-peeling/640-sauna-visage-3760096760789.html"
+  },
+  {
+    "name": "JEAN PAUL GAULTIER",
+    "regular-price": " 353,000DT ",
+    "price": " 282,400DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107450-scandal-8435415061940.html"
+  },
+  {
+    "name": "JEAN PAUL GAULTIER",
+    "regular-price": " 273,000DT ",
+    "price": " 218,400DT ",
+    "link": "https://www.pointm.tn/coffret-parfum/107451-scandal-8435415061964.html"
+  },
+  {
+    "name": "JEAN PAUL GAULTIER",
+    "regular-price": " 268,000DT ",
+    "price": " 187,600DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/2490-scandal-a-paris.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 33,000DT ",
+    "price": " 23,100DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/2392-sculpting-lipliner-wp.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 56,000DT ",
+    "price": " 44,800DT ",
+    "link": "https://www.pointm.tn/poudre/302-selfie-light-powder.html"
+  },
+  {
+    "name": "MAYBELLINE",
+    "regular-price": " 36,000DT ",
+    "price": " 28,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/111726-sensational-liquide-matte.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 44,000DT ",
+    "price": " 35,200DT ",
+    "link": "https://www.pointm.tn/shampooing/3201-shampooing-micellaire-extra-delicat.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 50,000DT ",
+    "price": " 40,000DT ",
+    "link": "https://www.pointm.tn/cheveux/1311-shampooing-sec-magique-sborgulateur-ultra-volume-8015150292856.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 45,000DT ",
+    "price": " 36,000DT ",
+    "link": "https://www.pointm.tn/shampooing/101058-shampooing-volumisant-8015150290500.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 29,000DT ",
+    "price": " 23,200DT ",
+    "link": "https://www.pointm.tn/gloss/2994-shine-cocoon.html"
+  },
+  {
+    "name": "GIORGIO ARMANI",
+    "regular-price": " 228,000DT ",
+    "price": " 182,400DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/95953-si-passione-eclat.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 1 394,000DT ",
+    "price": " 1 115,200DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/91215-sisleya-l-integral-anti-age-3473311500502.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 1 205,000DT ",
+    "price": " 843,500DT ",
+    "link": "https://www.pointm.tn/serum/1444-sisleya-reducteur-de-rides.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 445,000DT ",
+    "price": " 311,500DT ",
+    "link": "https://www.pointm.tn/serum/1445-sisleyouth-serum.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 146,000DT ",
+    "price": " 116,800DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/81880-skin-illusion-velvet.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 55,000DT ",
+    "price": " 27,500DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/881-smoky-liner-long-lasting-waterproof.html"
+  },
+  {
+    "name": "InoDerma",
+    "regular-price": " 99,000DT ",
+    "price": " 69,300DT ",
+    "link": "https://www.pointm.tn/douche-bain/96866-so-lovelyso-sublime--6192488104692.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 114,000DT ",
+    "price": " 85,500DT ",
+    "link": "https://www.pointm.tn/soin-du-visage/127358-soin-bonne-mine.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 365,000DT ",
+    "price": " 292,000DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/1447-soin-hydratant-matifiant-aux-resines-tropicales.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 114,000DT ",
+    "price": " 91,200DT ",
+    "link": "https://www.pointm.tn/auto-bronzant/46359-soin-super-bronzant-intensif-ultra-rapide-spf-6-8015150260688.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 572,000DT ",
+    "price": " 457,600DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/129685-soin-velours-aux-fleurs-de-safran-3473311269003.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 356,000DT ",
+    "price": " 284,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1453-soir-d-orient.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 499,000DT ",
+    "price": " 399,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1454-soir-de-lune.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 376,000DT ",
+    "price": " 300,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/44998-soir-de-lune-3473311980243.html"
+  },
+  {
+    "name": "KÉRASTASE",
+    "regular-price": " 75,000DT ",
+    "price": " 56,250DT ",
+    "link": "https://www.pointm.tn/shampooing/3291-specifique-bain-riche-dermo-calm.html"
+  },
+  {
+    "name": "DIESEL",
+    "regular-price": " 164,000DT ",
+    "price": " 114,800DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/3106-spirit-of-the-brave.html"
+  },
+  {
+    "name": "DIESEL",
+    "regular-price": " 164,000DT ",
+    "price": " 114,800DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3356-spirit-of-the-brave-intense.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 145,000DT ",
+    "price": " 116,000DT ",
+    "link": "https://www.pointm.tn/protection-solaire/3210-sports-bb-compact-spf-50.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 144,000DT ",
+    "price": " 115,200DT ",
+    "link": "https://www.pointm.tn/protection-solaire/3209-sports-bb-spf-50.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 22,000DT ",
+    "price": " 17,600DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/48150-star-glitter-3034641030017.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 39,000DT ",
+    "price": " 29,250DT ",
+    "link": "https://www.pointm.tn/crayon-a-levres/1215-stylo-contour-des-levres.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 39,000DT ",
+    "price": " 27,300DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/1222-stylo-contour-des-yeux.html"
+  },
+  {
+    "name": "SISLEY ",
+    "regular-price": " 165,000DT ",
+    "price": " 132,000DT ",
+    "link": "https://www.pointm.tn/illuminateur-de-teint/48453-stylo-lumiere.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 69,000DT ",
+    "price": " 51,750DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/2273-stylo-yeux-waterproof.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 184,000DT ",
+    "price": " 128,800DT ",
+    "link": "https://www.pointm.tn/corps/1296-super-concentre-anticellulite-amincissant-nuit-8015150252362.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 28,000DT ",
+    "price": " 22,400DT ",
+    "link": "https://www.pointm.tn/gloss/98667-super-gloss.html"
+  },
+  {
+    "name": "MAYBELLINE",
+    "regular-price": " 44,000DT ",
+    "price": " 35,200DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/111771-superstay-matte-ink.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 201,000DT ",
+    "price": " 160,800DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/63252-synchro-skin-radiant-lifting.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 169,000DT ",
+    "price": " 135,200DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/111370-synchro-skin-teinte-auto-rafraichissante-spf-20.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 99,000DT ",
+    "price": " 69,300DT ",
+    "link": "https://www.pointm.tn/gommage-exfoliant/46355-talasso-scrub-anti-age-8015150251709.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 99,000DT ",
+    "price": " 69,300DT ",
+    "link": "https://www.pointm.tn/gommage-exfoliant/68188-talasso-scrub-anti-eau-8015150251693.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 99,000DT ",
+    "price": " 69,300DT ",
+    "link": "https://www.pointm.tn/gommage-exfoliant/68189-talasso-scrub-raffermissant-8015150251716.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 75,000DT ",
+    "price": " 56,250DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/1228-teint-evidemment-compact.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 174,000DT ",
+    "price": " 121,800DT ",
+    "link": "https://www.pointm.tn/poudre/803-teint-idole-ultra-compact.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 160,000DT ",
+    "price": " 112,000DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/787-teint-idole-ultra-stick.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 167,000DT ",
+    "price": " 116,900DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/106654-teint-idole-ultra-wear.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 110,000DT ",
+    "price": " 82,500DT ",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/78007-teint-idole-ultra-wear-all-over-concealer.html"
+  },
+  {
+    "name": "Rouge baiser",
+    "regular-price": " 75,000DT ",
+    "price": " 56,250DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/1226-teint-intensement-longue-tenue.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 335,000DT ",
+    "price": " 268,000DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/83718-the-one-for-men-3423222018368.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 243,000DT ",
+    "price": " 182,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum-intense/88353-the-one-gold.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 395,000DT ",
+    "price": " 316,000DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/607-the-one-royal-night.html"
+  },
+  {
+    "name": "DOLCE & GABBANA",
+    "regular-price": " 437,000DT ",
+    "price": " 327,750DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1881-the-only-one-2.html"
+  },
+  {
+    "name": "HUGO BOSS",
+    "regular-price": " 343,000DT ",
+    "price": " 257,250DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/132502-the-scent-for-her-3616302923250.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 152,000DT ",
+    "price": " 121,600DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/99084-total-eye-revive-defatigant-eclair-yeux-premieres-rides-anti-cernes-3666057012846.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 192,000DT ",
+    "price": " 153,600DT ",
+    "link": "https://www.pointm.tn/contour-des-yeux/99085-total-eye-smooth-baume-comblant-yeux-rides-et-fermete-3666057012853.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 136,000DT ",
+    "price": " 102,000DT ",
+    "link": "https://www.pointm.tn/illuminateur-de-teint/843-touche-eclat.html"
+  },
+  {
+    "name": "Yves saint laurent",
+    "regular-price": " 184,000DT ",
+    "price": " 110,400DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/110030-touche-eclat-le-teint.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/anti-cernes-correcteurs/127364-touche-eclat-stylo-high-cover.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 52,000DT ",
+    "price": " 41,600DT ",
+    "link": "https://www.pointm.tn/soin-cheveux/78757-travel-kit-8015150292245.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 111,000DT ",
+    "price": " 88,800DT ",
+    "link": "https://www.pointm.tn/crayon-eyeliner/2628-trio-sourcils-ink.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 40,000DT ",
+    "price": " 28,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2390-twist-up-matt-lips.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 39,000DT ",
+    "price": " 19,500DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/2391-ultra-matt-liquid-lipstick.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/eau-de-toilette/2319-uomo-silver-essence.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 53,000DT ",
+    "price": " 42,400DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/2995-urban-perfect.html"
+  },
+  {
+    "name": "CLARINS",
+    "regular-price": " 231,000DT ",
+    "price": " 184,800DT ",
+    "link": "https://www.pointm.tn/serum/2220-v-shaping-facial-lift-3380810270990.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 44,000DT ",
+    "price": " 30,800DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/93654-velvet-comfort-liquid-lipstick.html"
+  },
+  {
+    "name": "MAKE UP FACTORY",
+    "regular-price": " 88,000DT ",
+    "price": " 44,000DT ",
+    "link": "https://www.pointm.tn/fond-de-teint/894-velvet-lifting-foundation.html"
+  },
+  {
+    "name": "BOURJOIS",
+    "regular-price": " 52,000DT ",
+    "price": " 39,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/62046-velvet-the-lipstick.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/rouge-a-levres/62095-velvet-the-pencil.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 46,000DT ",
+    "price": " 32,200DT ",
+    "link": "https://www.pointm.tn/poudre/2405-velvet-touch-compact-powder.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 41,000DT ",
+    "price": " 20,500DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/1634-very-mat.html"
+  },
+  {
+    "name": "Collistar",
+    "regular-price": " 185,000DT ",
+    "price": " 138,750DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/48286-vetiver-forte.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 272,000DT ",
+    "price": " 163,200DT ",
+    "link": "https://www.pointm.tn/antirides-anti-age/437-visionnaire-creme-spf-20.html"
+  },
+  {
+    "name": "LANCÔME",
+    "regular-price": " 315,000DT ",
+    "price": " 236,250DT ",
+    "link": "https://www.pointm.tn/soin-de-nuit/436-visionnaire-nuit-beauty-sleep-perfector.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 442,000DT ",
+    "price": " 353,600DT ",
+    "link": "https://www.pointm.tn/raffermissant-liftant/3270-vital-perfection-emulsion-jour-lift-fermete-spf-30.html"
+  },
+  {
+    "name": "Qiriness",
+    "regular-price": " 120,000DT ",
+    "price": " 90,000DT ",
+    "link": "https://www.pointm.tn/soin-de-jour/82829-voile-source-deau-3760096760376.html"
+  },
+  {
+    "name": "DEBORAH ",
+    "regular-price": " 35,000DT ",
+    "price": " 28,000DT ",
+    "link": "https://www.pointm.tn/rouge-a-levres/85791-volume-vinyl-lipstick.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/mascara/743-voluptuous-false-lash-effect.html"
+  },
+  {
+    "name": "AZZARO",
+    "regular-price": " 268,000DT ",
+    "price": " 214,400DT ",
+    "link": "https://www.pointm.tn/eau-de-toilette/1900-wanted.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 180,000DT ",
+    "price": " 144,000DT ",
+    "link": "https://www.pointm.tn/purifiant-matifiant/2570-waso-hydratant-matifiant-express.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 138,000DT ",
+    "price": " 96,600DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/2576-waso-lotion-gelee-rafraichissante.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 142,000DT ",
+    "price": " 106,500DT ",
+    "link": "https://www.pointm.tn/masque-visage/77830-waso-masque-purifiant-sos-pores-768614178811.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 141,000DT ",
+    "price": " 105,750DT ",
+    "link": "https://www.pointm.tn/hydratant-nourrissant/77827-waso-soin-correcteur-teint-non-gras-spf30-768614178767.html"
+  },
+  {
+    "name": "SHISEIDO",
+    "regular-price": " 397,000DT ",
+    "price": " 317,600DT ",
+    "link": "https://www.pointm.tn/soin-de-nuit/2970-white-lucent-creme-masque-nuit-eclat.html"
+  },
+  {
+    "name": "ARCANCIL ",
+    "regular-price": " 73,000DT ",
+    "price": " 36,500DT ",
+    "link": "https://www.pointm.tn/palettes-coffrets/1862-wild-obsession-kit.html"
+  },
+  {
+    "name": "CALVIN KLEIN",
+    "regular-price": " 282,000DT ",
+    "price": " 211,500DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/1615-women.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 23,000DT ",
+    "price": " 16,100DT ",
+    "link": "https://www.pointm.tn/vernis-a-ongles/2395-wonder-nail.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 23,000DT ",
+    "price": " 16,100DT ",
+    "link": "https://www.pointm.tn/soins-des-ongles/2400-wonder-nail-second-nail.html"
+  },
+  {
+    "name": "ISADORA",
+    "regular-price": " 23,000DT ",
+    "price": " 16,100DT ",
+    "link": "https://www.pointm.tn/vernis-a-ongles/2396-wonder-nail-sparkling-collection.html"
+  },
+  {
+    "name": null,
+    "price": "sold out",
+    "link": "https://www.pointm.tn/eau-de-parfum/2656-yes-i-am.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 117,000DT ",
+    "price": " 93,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/113157-yes-i-am-delicious.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 117,000DT ",
+    "price": " 93,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/3122-yes-i-am-fabulous.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 117,000DT ",
+    "price": " 93,600DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/18518-yes-i-am-glorious.html"
+  },
+  {
+    "name": "CACHAREL",
+    "regular-price": " 117,000DT ",
+    "price": " 70,200DT ",
+    "link": "https://www.pointm.tn/eau-de-parfum/69497-yes-i-am-pink-first.html"
+  }
+]
